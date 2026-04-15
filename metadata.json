@@ -1,0 +1,6 @@
+{
+  "name": "Senior Code Auditor",
+  "description": "A web-based tool to analyze code dependencies and assess architectural risk using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
